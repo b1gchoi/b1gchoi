@@ -28,6 +28,9 @@ Focus: Kernel exploits, binary exploitation, fuzzing.
 
 - 🐦 [X](https://x.com/B1gh0rnn)
 - 📧 guillerminayounghz2287@outlook.com
+- **[PGP](https://github.com/b1gchoi/public/blob/main/README.md)**
+
+
 
 <div align="center">
   <p> <img src="https://komarev.com/ghpvc/?username=b1gchoi&label=Profile%20views&color=0e75b6&style=flat" alt="b1gchoi" /> </p>
