@@ -1,12 +1,3 @@
-<h2>b1gchoi</h2>
-<p><em>3+ years in cybersecurity research<br>
-  Developing PoCs in my spare time, exploiting vulns ⚡ at work!<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgxNzQ2ZGd4MHFleW9zem1meXRpYzJveDUwazV1NG1oMzFxc21idiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cM2TcpRgCbHEzCZUzG/giphy.gif" width="30">
-</em></p>
-
-[![X: B1gh0rnn](https://img.shields.io/twitter/follow/B1gh0rnn?style=flat-square)](https://x.com/B1gh0rnn)
-[![GitHub b1gchoi](https://img.shields.io/github/followers/b1gchoi?label=follow%20github&style=flat-square)](https://github.com/b1gchoi)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=b1gchoi&label=Profile%20views&color=0e75b6&style=flat" alt="b1gchoi" /> </p>
 <!--
 **b1gchoi/b1gchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -19,3 +10,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Welcome 👋
+
+**Exploit Developer | Cybersecurity Researcher | Reverse Engineer**
+
+Focus: Kernel exploits, binary exploitation, fuzzing.
+
+## 🛠️ Stack
+
+| Languages | Tools & Frameworks |
+|-----------|---------------------|
+| Python, C/C++, Assembly, Rust, Bash | GDB, IDA Pro, Ghidra, Metasploit, AFL++, pwntools |
+
+
+## 📫 Connect
+
+- 🐦 [X](https://x.com/B1gh0rnn)
+- 📧 guillerminayounghz2287@outlook.com
+
+<div align="center">
+  <p> <img src="https://komarev.com/ghpvc/?username=b1gchoi&label=Profile%20views&color=0e75b6&style=flat" alt="b1gchoi" /> </p>
+</div>
